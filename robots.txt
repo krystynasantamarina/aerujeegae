@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefoothoum.degtyareva.info/sitemap.xml
